@@ -1,7 +1,7 @@
 ## 嗨，你好，我是Weiho. 👋
 
 ## About Me
-  -   Qihoo360 company retire Red Teamer. PoxTeam one of the founders， XieCat member
+  -   Qihoo360 company a retire Red Teamer. PoxTeam one of the founders， XieCat member
   - 👏 Good at social engineering and Bypass AV/EDR
   - 🤏 C++/C#/Python/Java/PHP/Shell
   - 🤏 Code audit
