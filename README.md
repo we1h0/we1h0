@@ -9,7 +9,7 @@
   - 📫 How to reach me: h4x0er#secbug.org
 
 ## 关于我
- - 奇虎360退役红队老废物（已离开），破晓团队创始人之一，Xie Cat成员。
+ - 奇虎360退役红队老废物（已离开），[破晓团队](http://www.secbug.org)，[Xie Cat](https://github.com/xiecat)， [SDLChina](https://www.securitypaper.org/) 成员之一。
  - 👏擅长社会工程学跟杀软对抗、Web安全、内网渗透
  - 🤏 C++/C#/PHP/Java/Python/Shell
  - 🤏 黑/灰/白盒审计
